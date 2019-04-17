@@ -1,0 +1,5 @@
+git config user.email maru.sama@gmail.com
+git config user.name marusama
+
+git config --global alias.tree 'log --graph --full-history --all --color --date=short --pretty=format:"%Cred%x09%h %Creset%ad%Cblue%d %Creset %s %C(bold)(%an)%Creset"'
+
